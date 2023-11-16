@@ -1,15 +1,16 @@
 ## Перечислите список composer-пакетов, которые использует фреймворк Laravel после установки.
-- illuminate/console
-- illuminate/events
-- illuminate/pagination
-- illuminate/pipeline
-- illuminate/queue
-- illuminate/support
-- illuminate/view
-- symfony/console
-- symfony/finder
-- symfony/process
+- php
 - guzzlehttp/guzzle
+- laravel/framework
+- laravel/sanctum
+- laravel/tinker
+- fakerphp/faker
+- laravel/pint
+- laravel/sail
+- mockery/mockery
+- nunomaduro/collision
+- phpunit/phpunit
+- spatie/laravel-ignition
 
 
 ## Изучите директорию config и опишите какие файлы хранятся в этой директории.
